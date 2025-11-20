@@ -33,4 +33,45 @@ Download here:
 👉 **[Google Drive Link:](https://drive.google.com/file/d/1TnOrhJZEug2mLeKVbrTAgA6zU0wBePWy/view?usp=sharing)**  
 
 After downloading, place the file in your project folder:
+# 🔗 Live Streamlit App
+
+👉 **LIVE Dashboard:**  
+https://ecommerce-customer-analytics-9q56mdidnvnzmpay54gdvu.streamlit.app/
+
+---
+
+# 🚀 How to Run Locally
+
+### 1️⃣ Install dependencies:
+
+### 2️⃣ Run Streamlit App:
+
+Dashboard opens automatically in browser:  
+**http://localhost:8501/**
+
+---
+
+# 📊 Features in Dashboard
+- RFM metrics
+- KMeans clusters
+- Visual charts (histograms, scatterplots)
+- Cluster interpretation
+- Downloadable CSV
+- Automated marketing email/SMS/WhatsApp templates
+
+---
+
+# 🧠 Technologies Used
+- Python  
+- Pandas  
+- Scikit-learn  
+- Streamlit  
+- Matplotlib  
+
+---
+
+# ⭐ Author
+**Saransvrg Professional**  
+Data Analyst • AI Learner • Portfolio Projects  
+
 
